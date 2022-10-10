@@ -1,0 +1,15 @@
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/bin/Debug/net6.0/IdentityMAtrixModifier
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/bin/Debug/net6.0/IdentityMAtrixModifier.deps.json
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/bin/Debug/net6.0/IdentityMAtrixModifier.runtimeconfig.json
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/bin/Debug/net6.0/IdentityMAtrixModifier.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/bin/Debug/net6.0/IdentityMAtrixModifier.pdb
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.csproj.AssemblyReference.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.GeneratedMSBuildEditorConfig.editorconfig
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.AssemblyInfoInputs.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.AssemblyInfo.cs
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.csproj.CoreCompileInputs.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/refint/IdentityMAtrixModifier.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.pdb
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/IdentityMAtrixModifier.genruntimeconfig.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex3/IdentityMAtrixModifier/IdentityMAtrixModifier/obj/Debug/net6.0/ref/IdentityMAtrixModifier.dll
