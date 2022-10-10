@@ -54,8 +54,6 @@ public class MatrixCalculator
             }
         }
         return modifiedMatrix;
-    
-        return null;
     }
     public void PrintMatrix(int[,] matrix)
     {
