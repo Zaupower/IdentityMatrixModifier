@@ -3,15 +3,15 @@ namespace IdentityMAtrixModifier;
 public class MatrixCalculator
 {
     
-    public int[,] GenMatrix(int size)
+    public int[,] GenMatrix(int leghthRow,int lenghtCol)
     {
         Random rn = new Random();
-        int[,] matrix = new int[size,size];
+        int[,] matrix = new int[leghthRow,lenghtCol];
         int row, col;
          
-        for (row = 0; row < size; row++)
+        for (row = 0; row < leghthRow; row++)
         {
-            for (col = 0; col < size; col++)
+            for (col = 0; col < lenghtCol; col++)
             {
                 matrix[row,col] = rn.Next(-50, 100);
             }
@@ -38,10 +38,11 @@ public class MatrixCalculator
             }
         }
         
-        int lenght = modifiedMatrix.GetLength(0);
-        for (row = 0; row < lenght; row++)
+        int lenghtRow = modifiedMatrix.GetLength(0);
+        int lenghtCol = modifiedMatrix.GetLength(1);
+        for (row = 0; row < lenghtRow; row++)
         {
-            for (col = 0; col < lenght; col++)
+            for (col = 0; col < lenghtCol; col++)
             {
                 // Checking if row is equal to column
                 if (row > col)

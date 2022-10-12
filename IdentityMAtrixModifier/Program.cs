@@ -4,8 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
+        int lengthRow = 6;
+        int lengthCol = 2;
         MatrixCalculator mtCalculator = new MatrixCalculator();
-        int[,] initialMatrix = mtCalculator.GenMatrix(3);
+        int[,] initialMatrix = mtCalculator.GenMatrix(lengthRow, lengthCol);
         
         Console.WriteLine("Initial matrix");
         mtCalculator.PrintMatrix(initialMatrix);
